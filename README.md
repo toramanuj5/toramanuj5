@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Machine Learning](https://github.com/toramanuj5/Machine-Learning)
 
-- 💬 Ask me about **Blockchain, different Financial technology, Financial Risk, Market Microstructure**
+- 💬 Ask me about **Blockchain, different Financial Technology, Financial Risk, Market Microstructure**
 
 - 📫 How to reach me **toramanuj5@gmail.com**
 
